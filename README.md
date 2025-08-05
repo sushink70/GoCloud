@@ -1,4 +1,4 @@
-###GoCloud
+GoCloud
 ### 📦 NAS Project – Go Server & Rust Client
 
 This project is a simple, fast, and secure Network-Attached Storage (NAS) system built using:
