@@ -132,11 +132,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 This project is licensed under the MIT License.
 
 ---
-
-If you provide:
-
-* repo name or link,
-* actual commands or routes you're using, or
-* authentication method (if any),
-
-I can personalize this further for you.
